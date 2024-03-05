@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "jBooO/V9NWyD7upsO52YEMXBacMmq32Gr8JvG1nmZSM=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack/wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/css/main.f4e57d1ced06fb6b2168.css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.f4e57d1ced06fb6b2168.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.f4e57d1ced06fb6b2168.css"
+    },
+    {
+      "Identity": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/main.f4e57d1ced06fb6b2168.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/wwwroot/",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.f4e57d1ced06fb6b2168.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.f4e57d1ced06fb6b2168.js"
+    }
+  ]
+}

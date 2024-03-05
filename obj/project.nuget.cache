@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYUZq+PwFg3o6/bwJDJMxNJpD0a3WIbYZEJ2WF3Qmu1RGuryhuVj66+zr9mgVLuPqsSjv9p1+oVnhXizDrxcUQ==",
+  "success": true,
+  "projectFilePath": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/Users/habsa2war/.nuget/packages/microsoft.typescript.msbuild/5.3.3/microsoft.typescript.msbuild.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

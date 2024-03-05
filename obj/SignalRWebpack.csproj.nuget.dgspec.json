@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/habsa2war/infosys/microsoft/SignalRWebpack/SignalRWebpack.csproj": {}
+  },
+  "projects": {
+    "/Users/habsa2war/infosys/microsoft/SignalRWebpack/SignalRWebpack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/SignalRWebpack.csproj",
+        "projectName": "SignalRWebpack",
+        "projectPath": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/SignalRWebpack.csproj",
+        "packagesPath": "/Users/habsa2war/.nuget/packages/",
+        "outputPath": "/Users/habsa2war/infosys/microsoft/SignalRWebpack/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/habsa2war/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
